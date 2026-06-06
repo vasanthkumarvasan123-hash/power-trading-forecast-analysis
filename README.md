@@ -51,6 +51,3 @@ The analysis was performed using IEX Day-Ahead Market data combined with weather
 
 ### Author
 **VASANTH A**
-
-**Vasanth A**
-
