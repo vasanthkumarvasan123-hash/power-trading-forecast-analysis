@@ -34,7 +34,7 @@ This project analyzes electricity trading patterns in the Indian Energy Exchange
 ### Repository Contents
 
 * **power_trading_eda.py** – Python EDA and analysis scripts
-* **weather_analysis_queries.sql** – SQL queries used for analysis
+* **weather analysis queries.sql** – SQL queries used for analysis
 * **Excel Dashboard** – Interactive dashboard with multiple chart types
 * **Power BI Dashboard** – Business intelligence dashboard and visualizations
 * **Plots Folder** – Charts, visualizations, and analysis outputs
@@ -43,7 +43,14 @@ This project analyzes electricity trading patterns in the Indian Energy Exchange
 
 The project demonstrates how renewable energy growth influences electricity prices and market dynamics, helping stakeholders understand pricing behavior and energy market trends.
 
+## Dataset Information
+
+Dataset files are not included in this repository due to GitHub file size limitations.
+
+The analysis was performed using IEX Day-Ahead Market data combined with weather data from multiple locations across India.
+
 ### Author
+**VASANTH A**
 
 **Vasanth A**
 
